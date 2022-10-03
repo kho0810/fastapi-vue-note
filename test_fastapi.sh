@@ -1,1 +1,1 @@
-nerdctl exec fastapi-crud_web_1 pytest .
+nerdctl exec fastapi-vue-note_backend_1 pytest .
